@@ -43,7 +43,7 @@ for i in range(0,11):
 	ML.append([])
 
 position = np.arange(1,12)
-choices = ['Bewtweenness','Closeness', 'X Position','Y Position']
+choices = ['Betweenness','Closeness', 'X Position','Y Position']
 
 path_fifa = 'img/cup.png'
 with open(path_fifa, "rb") as image_file:
@@ -149,7 +149,7 @@ home = html.Div([  # page 1
                                 and Pavlos Gogousis", style={'text-align':'justify', 'margin-top':'10px'}),
 
                         html.P("Course Administrators: Benjamin Bach and \
-                                Davind Murray-Rust", style={'text-align':'justify', 'margin-top':'10px'}),
+                                David Murray-Rust", style={'text-align':'justify', 'margin-top':'10px'}),
 
                         html.P("Data Holder: Gian Marco Campagnolo", style={'text-align':'justify', 'margin-top':'10px'}),
 

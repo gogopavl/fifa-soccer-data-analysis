@@ -12,9 +12,9 @@ dash-renderer==0.14.1
 dash-table==3.1.7
 decorator==4.3.0
 enum34==1.1.6
-Flask==1.0.2
+Flask
 Flask-Compress==1.4.0
-gunicorn==19.9.0
+gunicorn
 idna==2.7
 ipaddress==1.0.17
 ipython-genutils==0.2.0

@@ -46,6 +46,5 @@ six==1.11.0
 sklearn==0.0
 subprocess32==3.5.3
 traitlets==4.3.2
-unity-lens-photos==1.0
 urllib3==1.23
 Werkzeug==0.14.1
